@@ -47,7 +47,7 @@ function renderLicenseBadge(license) {
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
-  - [Contributing](#contributing)
+  - [Credits](#credits)
   - [Tests](#tests)
   
   
