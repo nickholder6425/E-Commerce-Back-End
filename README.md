@@ -17,7 +17,14 @@
   
   
   ## Installation
-  Clone the repo to your local server and open in an IDE. Check to ensure node.js and npm installed  by running 'node -v' and 'npm -v' in the commande line. In the packages root directory, run the following commands to install express.js, sequelize, mysql2, and dotenv: 'npm i expres sequelize mysql2 dotenv'. In the root directory, create a .env file to save sensitive information ie username, password, and DB. In the mysql shell, run 'SOURCE db/schema.sql' to create the schema. Then exit mysql and run 'npm run seed' to seed with test data. Lastly, run 'npm start' to initiate the program. Test API POST, PUT, and DELETE routes in Insomnia Core. 
+  1. Clone the repo to your local server and open in an IDE. 
+  2. Check to ensure node.js and npm installed by running 'node -v' and 'npm -v' in the commande line. 
+  3. In the packages root directory, run the following command to install express.js, sequelize, mysql2, and dotenv: 'npm i expres sequelize mysql2 dotenv'. 
+  4. In the root directory, create a .env file to save sensitive information ie username, password, and DB name. 
+  5. In the mysql shell, run 'SOURCE db/schema.sql' to create the schema. 
+  6. Exit mysql and run 'npm run seed' to seed with test data. 
+  7. Run 'npm start' to initiate the program. 
+  8. Test API POST, PUT, and DELETE routes in Insomnia Core. 
   
   ## Usage
   ![demo of the project]()
