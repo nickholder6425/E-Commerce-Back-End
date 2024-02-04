@@ -1,6 +1,6 @@
 # E-Commerce-Back-End
   
-  [![License](https://img.shields.io/badge/License-None-brightgreen.svg)](https://opensource.org/licenses/None)
+  ![License](https://img.shields.io/badge/License-None-brightgreen)
   
   ## Description
   - This project provides an application using back-end code to help manage an e-commerce site. The objective is to take a working Express.js API and configure it to use Sequelize to interact with a MySQL database.
@@ -31,11 +31,7 @@
   
   
   ## License
-  
-  This project is licensed under the [None](https://opensource.org/licenses/None) License - see the [LICENSE](LICENSE) file for details.
-  
-  ## Feature(s)
-  
+  ![License](https://img.shields.io/badge/License-None-brightgreen)
   
   ## Tests
   undefined
