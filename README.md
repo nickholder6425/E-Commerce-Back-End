@@ -3,9 +3,8 @@
   [![License](https://img.shields.io/badge/License-None-brightgreen.svg)](https://opensource.org/licenses/None)
   
   ## Description
-  - This project provides an application using back-end code to help manage an e-commerce site.The objective is to take a working Express.js API and configure it to use Sequelize to interact with a MySQL database.
+  - This project provides an application using back-end code to help manage an e-commerce site. The objective is to take a working Express.js API and configure it to use Sequelize to interact with a MySQL database.
   - To show an understanding of Object-Relational Mapping (ORM) in a given challenge for my coding bootcamp course.
-  - To show an understanding of Oject-Relational Mapping (ORM) in a given challenge for my coding bootcamp course.
   - It provides a back-end for an e-commerce company to use the latest technologies in order to compete with other e-commerce companies.
   
   
