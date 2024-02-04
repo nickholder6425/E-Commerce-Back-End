@@ -1,7 +1,5 @@
 # E-Commerce-Back-End
   
-  ![License](https://img.shields.io/badge/License-None-brightgreen)
-  
   ## Description
   - This project provides an application using back-end code to help manage an e-commerce site. The objective is to take a working Express.js API and configure it to use Sequelize to interact with a MySQL database.
   - To show an understanding of Object-Relational Mapping (ORM) in a given challenge for my coding bootcamp course.
